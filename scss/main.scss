@@ -13,17 +13,18 @@ body {
     color: set-text-color($primary-color);
     height: 100%;
     margin: 0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
 }
 
 // Headings
-h1, h2, h3 {
+h1, h2, h3, h4 {
     margin: 0;
     font-weight: 400;
 
     &.lg-heading {
-        font-size: 6rem;
+        font-size: 5rem;
+        text-transform: uppercase;
     }
 
     &.sm-heading {
@@ -111,6 +112,7 @@ main {
         background: lighten($primary-color, 5);
         padding: 0.5rem;
         border-bottom: $secondary-color 5px solid;
+        font-weight: 300;
     }
 }
 
