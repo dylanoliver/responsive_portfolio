@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../img/dylan150.jpg");
+      background: url("../img/dylan250.jpg");
       border-radius: 50%;
       border: solid 3px #ff7914; }
   .menu .nav-item {
@@ -98,7 +98,7 @@ body {
   color: #fff;
   height: 100%;
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
     background: url(../img/background.jpg);
