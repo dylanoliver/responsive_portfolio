@@ -55,7 +55,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../img/portrait.jpg");
+      background: url("../img/dylan250.jpg");
       border-radius: 50%;
       border: solid 3px #ff7914; }
   .menu .nav-item {
@@ -118,7 +118,7 @@ h1, h2, h3, h4 {
   margin: 0;
   font-weight: 400; }
   h1.lg-heading, h2.lg-heading, h3.lg-heading, h4.lg-heading {
-    font-size: 5rem;
+    font-size: 6rem;
     text-transform: uppercase; }
   h1.sm-heading, h2.sm-heading, h3.sm-heading, h4.sm-heading {
     margin-bottom: 2rem;
